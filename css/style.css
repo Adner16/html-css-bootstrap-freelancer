@@ -1,4 +1,6 @@
 
+/* HEADER */
+
 header{
     background-color: lightblue;
 }
@@ -8,11 +10,16 @@ header i{
     color: black;
 }
 
+/* JUMBO */
+
 .jumbotron{
     background: lightgreen;
     height: 400px;
 }
 
+/* MAIN */
+
+/* CARDS */
 
 .card{
     background-color: lightpink;
@@ -22,6 +29,8 @@ header i{
 .mt-6{
     margin-top: 200px;
 }
+
+/* ABOUT */
 
 .about{
     background-color: lightgreen;
@@ -33,11 +42,15 @@ header i{
     width: 300px;
 }
 
+/* CONTACT */
+
 .contact .container{
     background-color: black;
     height: 400px;
     width: 300px;
 }
+
+/* FOOTER */
 
 footer{
     background-color: dodgerblue;
