@@ -17,17 +17,17 @@ header i{
     height: 400px;
 }
 
-/* MAIN */
-
-/* CARDS */
-
-.card{
-    background-color: lightpink;
-    height: 350px;
+.mb-6{
+    margin-bottom: 200px;
 }
 
-.mt-6{
-    margin-top: 200px;
+/* MAIN */
+
+/* COL */
+
+.col{
+    background-color: lightpink;
+    height: 350px;
 }
 
 /* ABOUT */
@@ -39,7 +39,7 @@ header i{
 .about .container{
     background-color: lightskyblue;
     height: 400px;
-    width: 300px;
+    width: 60%;
 }
 
 /* CONTACT */
@@ -47,7 +47,7 @@ header i{
 .contact .container{
     background-color: black;
     height: 400px;
-    width: 300px;
+    width: 60%;
 }
 
 /* FOOTER */
