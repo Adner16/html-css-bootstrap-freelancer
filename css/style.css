@@ -1,35 +1,54 @@
 
 /* HEADER */
 
-header{
-    background-color: lightblue;
-    align-items: center;
-}
-
-header i{
-    font-size: 30px;
-    color: black;
-}
-
-/* JUMBO */
-
-.jumbotron{
-    background: lightgreen;
-    height: 400px;
-}
-
-.mb-6{
-    margin-bottom: 200px;
+.bg-darkblue{
+    background-color: rgba(44,62,80,255);
 }
 
 /* MAIN */
 
-/* COL */
+/* JUMBO */
 
-.gr-box{
-    background-color: lightpink;
-    height: 350px;
+.jumbotron{
+    background: rgba(83,189,157,255);
 }
+
+
+/* PORTFOLIO */
+
+
+.bg-purple{
+    background-color: rgba(186,75,99,255);
+}
+
+.bg-lightblue{
+    background-color: rgba(67,164,182,255);
+}
+
+.bg-black{
+    /* background-color: black; */
+}
+
+.bg-lightblue2{
+    background-color: rgba(46,131,193,255);
+}
+
+.bg-blue{
+    background-color: rgba(14,56,181,255);
+}
+
+.bg-sand{
+    background-color: rgba(204,178,163,255);
+}
+
+figure{
+    max-width: 100%;
+}
+
+img{
+    max-width: 100%;
+}
+
 
 /* ABOUT */
 
